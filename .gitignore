@@ -1,0 +1,12 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+
+# Type checker / lint caches
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytest_cache/
+
+# OS junk
+.DS_Store
